@@ -1,0 +1,92 @@
+  padding: 3rem;
+
+26
+
+  padding-bottom: 0;
+
+27
+
+}
+
+28
+
+​
+
+29
+
+.pad {
+
+30
+
+  font-family: var(--font);
+
+31
+
+  margin-bottom: 1.5rem;
+
+32
+
+  opacity: 0.7;
+
+33
+
+}
+
+34
+
+​
+
+35
+
+.notepad {
+
+36
+
+  font-family: var(--font) !important;
+
+37
+
+  display: block;
+
+38
+
+  width: 100%;
+
+39
+
+  height: calc(100vh - 6rem);
+
+40
+
+  appearance: none;
+
+41
+
+  font: inherit;
+
+42
+
+  border: none;
+
+43
+
+  outline: none;
+
+44
+
+  color: inherit;
+
+45
+
+  background: transparent;
+
+46
+
+  resize: none;
+
+47
+
+}
+
+48
+
