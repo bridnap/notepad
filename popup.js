@@ -1,10 +1,3 @@
-/*
-    Simple Notepad Developed By Mr. Alien - Vaibhav Mehta
-
-    Stackoverflow:  http://stackoverflow.com/users/1542290/mr-alien
-    Email :         firekillz@gmail.com
-*/
-
 //Retrieve Last Updated Time
 function showLastUpdated() {
   chrome.storage.local.get(function (fetch) {
